@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/traveljournal/static/css/main.2d478059.css",
+    "main.js": "/traveljournal/static/js/main.d479d33f.js",
+    "static/js/787.a1bb511e.chunk.js": "/traveljournal/static/js/787.a1bb511e.chunk.js",
+    "static/media/logo.png": "/traveljournal/static/media/logo.f7b88fac941e49dc534b.png",
+    "static/media/image2.jpeg": "/traveljournal/static/media/image2.8af3b9a7675d82b8aed9.jpeg",
+    "static/media/image5.jpeg": "/traveljournal/static/media/image5.8f320474c582a5d0dce4.jpeg",
+    "static/media/image4.jpeg": "/traveljournal/static/media/image4.a247694a21b3c7c5dab5.jpeg",
+    "static/media/image6.jpeg": "/traveljournal/static/media/image6.52ae224d9e74b1023786.jpeg",
+    "static/media/image1.jpeg": "/traveljournal/static/media/image1.cf1203a76b8a16d4e1fa.jpeg",
+    "static/media/logo.svg": "/traveljournal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/traveljournal/index.html",
+    "main.2d478059.css.map": "/traveljournal/static/css/main.2d478059.css.map",
+    "main.d479d33f.js.map": "/traveljournal/static/js/main.d479d33f.js.map",
+    "787.a1bb511e.chunk.js.map": "/traveljournal/static/js/787.a1bb511e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d478059.css",
+    "static/js/main.d479d33f.js"
+  ]
+}
