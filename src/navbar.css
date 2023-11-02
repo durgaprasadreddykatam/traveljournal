@@ -1,0 +1,22 @@
+.bar-area{
+    display: flex;
+    height:20vh;
+    background-color:#F55A5A;
+    justify-content: center;
+    align-items: center;
+}
+.navtext{
+font-family: 'Inter';
+font-weight: 1000;
+font-size: 20px;
+color: #FFFFFF;
+
+}
+.navimage{
+    padding: 10px;
+    height: 10vh;
+}
+.bartextarea{
+    display: flex;
+    align-items: center;
+}

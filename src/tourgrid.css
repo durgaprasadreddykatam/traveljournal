@@ -1,0 +1,65 @@
+.tourgrid{
+    display: flex;
+    padding: 30px;
+    
+    
+}
+.image{
+    background-color: azure;
+    height: 300px;
+    width: 500px;
+    border-radius: 20px;
+    margin: 30px;
+}
+.descriptiongrid{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 30px;
+
+}
+.LocationBox{
+    margin-top: 20px;
+
+    
+}
+.country{
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    letter-spacing: 0.17em; 
+
+
+}
+.Location{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+
+}
+
+.descriptionbox{
+    
+    
+}
+.Dates{
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10.24px;
+    line-height: 12px;
+}
+.description{
+    padding-bottom: 20px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;}
